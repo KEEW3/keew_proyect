@@ -1,0 +1,6 @@
+flask
+redis
+pymongo==3.11.4
+Flask-pymongo
+bcrypt
+pydantic
